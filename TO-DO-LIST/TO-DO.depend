@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695381407 source:c:\users\mohand hassan\downloads\to-do\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+
